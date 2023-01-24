@@ -6,11 +6,14 @@ Electronic Engineer, Software Engineer
 
 Hi im Ed! I am an engineer from Argentina with 4+ years proven experience in the software development industry. I am a quick learner and thinker who takes ownership of his work and leverages teamwork and expertise to drive impact. I contributed to Microsoft's production Email Orchestrator solution, and I was part of POAPs core developers' team.
 
-*   🌍  I'm based in Argentina
-*   🖥️  See my portfolio at [my website](http://eduardosacco.github.io/)
-*   ✉️  You can contact me at [saccoeduardo@gmail.com](mailto:saccoeduardo@gmail.com)
-*   🧠  I'm learning Web3 @ Alchemy University
-*   🤝  I'm open to collaborating on anything### Skills 
+* 🌍  I'm based in Argentina
+* 🖥️  See my portfolio at [my website](http://eduardosacco.github.io/)
+* ✉️  You can contact me at [saccoeduardo@gmail.com](mailto:saccoeduardo@gmail.com)
+* 🧠  I'm learning Web3 @ Alchemy University
+* 🤝  I'm open to collaborating on anything
+
+### Skills
+
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
@@ -35,14 +38,7 @@ Hi im Ed! I am an engineer from Argentina with 4+ years proven experience in the
 <a href="https://docs.alchemy.com/alchemy/documentation/alchemy-web3" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/alchemy-colored.svg" width="36" height="36" alt="Alchemy" /></a>
 <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
 </p>
-                    
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://www.github.com/eduardosacco" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/esacco" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.twitter.com/nastitasuper" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/eduardosacco" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/esacco" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/nastitasuper" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
