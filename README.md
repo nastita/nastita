@@ -4,7 +4,9 @@ Hi 👋 My name is Eduardo Sacco
 Electronic Engineer, Software Engineer
 --------------------------------------
 
-Hi im Ed! I am an engineer from Argentina with 4+ years proven experience in the software development industry. I am a quick learner and thinker who takes ownership of his work and leverages teamwork and expertise to drive impact. I contributed to Microsoft's production Email Orchestrator solution, and I was part of POAPs core developers' team.
+Hi im Ed! I am an engineer from Argentina with 5+ years proven experience in the software development industry.
+I am a quick learner and thinker who takes ownership of his work and leverages teamwork and expertise to drive impact.
+I contributed to Microsoft's production Email Orchestrator solution, I was part of [POAP](https://poap.xyz/)s core developers' team and I'm currently a BE Engineer at [LUKSO](https://lukso.network/).
 
 * 🌍  I'm based in Argentina
 * 🖥️  See my portfolio at [my website](http://eduardosacco.github.io/)
